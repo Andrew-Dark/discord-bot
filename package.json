@@ -1,5 +1,5 @@
 {
-  "name": "DiscordBot",
+  "name": "discord-bot",
   "version": "1.0.0",
   "description": "Bot on 12v discord.js",
   "main": "index.js",
